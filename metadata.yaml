@@ -1,0 +1,24 @@
+_repo: The-Scranton-High-Chums-on-the-Cinder-Path--13-Or-The-Mystery-of-the-Haunted-Quarry_12941
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ferguson, Donald
+    gutenberg_agent_id: '4730'
+    url: http://www.gutenberg.org/2009/agents/4730
+description: ''
+gutenberg_issued: '2004-07-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Track and field -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'High school students -- Juvenile fiction'
+- GITenberg
+title: "The Scranton High Chums on the Cinder Path\r\nOr, The Mystery of the Haunted\
+  \ Quarry"
+url: http://www.gutenberg.org/ebooks/12941
