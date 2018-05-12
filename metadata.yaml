@@ -1,11 +1,16 @@
 _repo: The-Scranton-High-Chums-on-the-Cinder-Path--13-Or-The-Mystery-of-the-Haunted-Quarry_12941
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ferguson, Donald
     gutenberg_agent_id: '4730'
     url: http://www.gutenberg.org/2009/agents/4730
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12941#The-Scranton-High-Chums-on-the-Cinder-Path--13-Or-The-Mystery-of-the-Haunted-Quarry
 gutenberg_issued: '2004-07-19'
 gutenberg_type: Text
 identifiers:
