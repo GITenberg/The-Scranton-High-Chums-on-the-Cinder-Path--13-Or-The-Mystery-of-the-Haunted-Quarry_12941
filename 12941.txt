@@ -25,8 +25,15 @@ Character set encoding: ASCII
 Produced by Jim Ludwig
 
 
+=================================================================
 
+PG NOTE:
 
+This file has many errors--it is suggested that readers ignore this
+version and open PG ebook #13251 which is a much cleaner version of this
+title.
+
+==================================================================
 
 THE SCRANTON HIGH CHUMS ON THE CINDER PATH
 or
